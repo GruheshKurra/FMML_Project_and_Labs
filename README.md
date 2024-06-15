@@ -18,6 +18,3 @@ This repository contains my project and lab submissions for the FMML course.
 
 #### Week 4
 - [AIML_III_Module_01_Lab_02_Machine_Learning_terms_and_metrics](./AIML_III_Module_01_Lab_02_Machine_Learning_terms_and_metrics.ipynb) - Created using Colab
-
-
-- **Author**: Gruhesh Sri Sai Karthik Kurra
