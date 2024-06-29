@@ -21,3 +21,6 @@ This repository contains my project and lab submissions for the FMML course.
 
 #### Week 5
 - [AIML III Module 01 Lab 03 Data Augmentation](./AIML_III_Module_01_Lab_03_Data_Augmentation.ipynb) - Created using Colab
+
+#### Week 6
+- [AIML_III_Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb](./AIML_III_Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb) - Created using Colab
