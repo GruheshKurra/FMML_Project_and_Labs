@@ -24,3 +24,6 @@ This repository contains my project and lab submissions for the FMML course.
 
 #### Week 6
 - [AIML_III_Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb](./AIML_III_Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb) - Created using Colab
+
+#### Week 7
+- [AIML_III_Module_02_Lab_01_Basic_Plots.ipynb](./AIML_III_Module_02_Lab_01_Basic_Plots.ipynb) - Created using Colab
