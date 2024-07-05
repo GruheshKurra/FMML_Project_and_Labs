@@ -13,7 +13,7 @@ This repository contains my project and lab submissions for the FMML course.
 - [AIML Course Probability Primer](./AIML_Course_Probability_Primer.ipynb) - Created using Colab
 - [Assignment](https://drive.google.com/file/d/1gDxZkQtYQBNmrYoqHwwN8HMJDO644GeB/view?usp=sharing) - PDF
 
-*### Module 1*
+*Module 1*
 
 #### Week 3
 - [AIML III Module 01 Lab 01 Features](./AIML_III_Module_01_Lab_01_Features.ipynb) - Created using Colab
@@ -27,7 +27,7 @@ This repository contains my project and lab submissions for the FMML course.
 #### Week 6
 - [AIML_III_Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb](./AIML_III_Module_01_Lab_04_Transforming_data_using_linear_algebra.ipynb) - Created using Colab
 
-*### Module 2*
+*Module 2*
 
 #### Week 7
 - [AIML_III_Module_02_Lab_01_Basic_Plots.ipynb](./AIML_III_Module_02_Lab_01_Basic_Plots.ipynb) - Created using Colab
