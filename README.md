@@ -31,3 +31,6 @@ This repository contains my project and lab submissions for the FMML course.
 
 #### Week 7
 - [AIML_III_Module_02_Lab_01_Basic_Plots.ipynb](./AIML_III_Module_02_Lab_01_Basic_Plots.ipynb) - Created using Colab
+
+#### Week 8
+- [AIML_III_Module_2_Lab2_Principal_Components_Analysis_(PCA).ipynb](./AIML_III_Module_2_Lab2_Principal_Components_Analysis_(PCA).ipynb) - Created using Colab
