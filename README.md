@@ -37,3 +37,6 @@ This repository contains my project and lab submissions for the FMML course.
 
 #### Week 9
 - [AIML_III_Module_2_Lab_3_Manifold_Learning_Methods.ipynb](./AIML_III_Module_2_Lab_3_Manifold_Learning_Methods.ipynb) - Created using Colab
+
+#### Week 10
+- [AIML_III_Module_2_Lab_4_t_SNE.ipynb](./AIML_III_Module_2_Lab_4_t_SNE.ipynb) - Created using Colab
