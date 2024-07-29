@@ -40,3 +40,7 @@ This repository contains my project and lab submissions for the FMML course.
 
 #### Week 10
 - [AIML_III_Module_2_Lab_4_t_SNE.ipynb](./AIML_III_Module_2_Lab_4_t_SNE.ipynb) - Created using Colab
+
+#### MODULE 2 Project
+- [AIML_III_Module_2_project_2024.ipynb](./AIML_III_Module_2_project_2024.ipynb) - Created using Colab
+
