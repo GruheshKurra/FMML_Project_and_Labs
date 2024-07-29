@@ -1,5 +1,3 @@
-# FMML Project and Labs
-
 ## Project and Lab Submissions for FMML
 
 This repository contains my project and lab submissions for the FMML course. Each submission is categorized by the week and module it pertains to.
@@ -11,7 +9,9 @@ This repository contains my project and lab submissions for the FMML course. Eac
 |----------|----------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------|
 | 1        | Basics of Linear Algebra                     | [Basics_of_Linear_Algebra.ipynb](./Basics_of_Linear_Algebra.ipynb)                                   | Created using Colab                  |
 | 2        | AIML Course Probability Primer               | [AIML_Course_Probability_Primer.ipynb](./AIML_Course_Probability_Primer.ipynb)                       | Created using Colab                  |
-| 2        | Assignment                                   | [Assignment](https://drive.google.com/file/d/1gDxZkQtYQBNmrYoqHwwN8HMJDO644GeB/view?usp=sharing)     | PDF                                   |
+
+##### Assignments
+- Week 2: [Assignment](https://drive.google.com/file/d/1gDxZkQtYQBNmrYoqHwwN8HMJDO644GeB/view?usp=sharing)
 
 ### Module 1
 
@@ -31,15 +31,7 @@ This repository contains my project and lab submissions for the FMML course. Eac
 | 9        | AIML III Module 02 Lab 03 Manifold Learning Methods                       | [AIML_III_Module_2_Lab_3_Manifold_Learning_Methods.ipynb](./AIML_III_Module_2_Lab_3_Manifold_Learning_Methods.ipynb)                  | Created using Colab                  |
 | 10       | AIML III Module 02 Lab 04 t-SNE                                           | [AIML_III_Module_2_Lab_4_t_SNE.ipynb](./AIML_III_Module_2_Lab_4_t_SNE.ipynb)                                                         | Created using Colab                  |
 
-### Projects
-
-| **Module** | **Title**                              | **Link**                                                                                               | **Notes**                             |
-|------------|----------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------|
-| Module 2   | AIML III Module 02 Project 2024        | [AIML_III_Module_2_project_2024.ipynb](./AIML_III_Module_2_project_2024.ipynb)                         | Created using Colab                  |
+##### Projects
+- Module 2: [AIML III Module 02 Project 2024](./AIML_III_Module_2_project_2024.ipynb)
 
 ---
-
-### Notes
-- This document will be updated continuously with future submissions.
-- All files are created using Google Colab for consistency and ease of collaboration.
-- The PDF link is shared for reference to the assignment document hosted on Google Drive.
