@@ -28,4 +28,7 @@ This repository contains my project and lab submissions for the FMML course. Eac
 ##### Projects
 - **Module 2 Project:** [AIML III Module 02 Project 2024](./AIML_III_Module_2_project_2024.ipynb)
 
+### Module 3
+
+- **Week 11:** [AIML_III_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb](./AIML_III_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb) - Created using Colab
 ---
