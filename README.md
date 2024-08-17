@@ -32,4 +32,5 @@ This repository contains my project and lab submissions for the FMML course. Eac
 
 - **Week 11:** [AIML_III_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb](./AIML_III_Module_3_Lab_1_Understanding_Distance_metrics_and_Introduction_to_KNN.ipynb) - Created using Colab
 - **Week 12:** [Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb](./Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb) - Created using Colab
+- **Week 13:** [AIML_III_Module_3_Lab_3_Using_KNN_for_Text_Classification.ipynb](./AIML_III_Module_3_Lab_3_Using_KNN_for_Text_Classification.ipynb) - Created using Colab
 
