@@ -1,10 +1,10 @@
-## Project and Lab Submissions for FMML
+# Project and Lab Submissions for FMML
 
 This repository contains my project and lab submissions for the FMML course. Each submission is categorized by the week and module it pertains to.
 
-### Submissions
+## Submissions
 
-#### General
+### General
 - **Week 1:** [Basics of Linear Algebra](./Basics_of_Linear_Algebra.ipynb) - Created using Colab
 - **Week 2:** [AIML Course Probability Primer](./AIML_Course_Probability_Primer.ipynb) - Created using Colab
 - **Week 2 Assignment:** [Assignment](https://drive.google.com/file/d/1gDxZkQtYQBNmrYoqHwwN8HMJDO644GeB/view?usp=sharing)
@@ -23,7 +23,7 @@ This repository contains my project and lab submissions for the FMML course. Eac
 - **Week 9:** [AIML III Module 02 Lab 03 Manifold Learning Methods](./AIML_III_Module_2_Lab_3_Manifold_Learning_Methods.ipynb) - Created using Colab
 - **Week 10:** [AIML III Module 02 Lab 04 t-SNE](./AIML_III_Module_2_Lab_4_t_SNE.ipynb) - Created using Colab
 
-##### Project
+#### Project
 - **Module 2 Project:** [AIML III Module 02 Project 2024](./AIML_III_Module_2_project_2024.ipynb)
 
 ### Module 3
@@ -32,5 +32,9 @@ This repository contains my project and lab submissions for the FMML course. Eac
 - **Week 12:** [AIML III Module 03 Lab 02 Implementing KNN from Scratch and Visualizing Algorithm Performance](./Module_3_Lab_2_Implementing_KNN_from_scratch_and_visualize_Algorithm_performance.ipynb) - Created using Colab
 - **Week 13:** [AIML III Module 03 Lab 03 Using KNN for Text Classification](./AIML_III_Module_3_Lab_3_Using_KNN_for_Text_Classification.ipynb) - Created using Colab
 
-##### Project
+#### Project
 - **Module 3 Project:** [AIML III Module 03 Project 2024](./AIML_III_Module_3_project_2024.ipynb)
+
+### Module 4
+
+- **Week 14:** [AIML III Module 04 Lab 01 Perceptron and Gradient Descent](./AIML_III_Module_4_Lab_1_Perceptron_and_Gradient_Descent.ipynb) - Created using Colab
