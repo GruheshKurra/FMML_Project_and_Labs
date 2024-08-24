@@ -38,3 +38,6 @@ This repository contains my project and lab submissions for the FMML course. Eac
 ### Module 4
 
 - **Week 14:** [AIML III Module 04 Lab 01 Perceptron and Gradient Descent](./AIML_III_Module_4_Lab_1_Perceptron_and_Gradient_Descent.ipynb) - Created using Colab
+
+#### Project
+- **Module 4 Project:** [AIML III Module 04 Project 2024](./AIML_III_Module_4_project_2024.ipynb)
