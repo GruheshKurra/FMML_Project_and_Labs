@@ -43,3 +43,8 @@ This repository contains my project and lab submissions for the FMML course. Eac
 
 #### Project
 - **Module 4 Project:** [AIML III Module 04 Project 2024](./AIML_III_Module_4_project_2024.ipynb)
+
+### Module 5
+
+- **Week 17:** [AIML III Module 05 Lab 01 Linear Regression, MSE, and Polynomial Regression](./AIML_III_Module_5_Lab_1_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb) - Created using Colab
+
