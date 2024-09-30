@@ -48,3 +48,4 @@ This repository contains my project and lab submissions for the FMML course. Eac
 
 - **Week 17:** [AIML III Module 05 Lab 01 Linear Regression, MSE, and Polynomial Regression](./AIML_III_Module_5_Lab_1_Linear_Regression,_MSE_and_Polynomial_Regression.ipynb) - Created using Colab
 - **Week 18:** [AIML III Module 05 Lab 02 Loss Functions](./AIML_III_Module_5_Lab_2_Loss_Functions.ipynb) - Created using Colab
+- **Week 19:** [AIML III Module 05 Lab 03 Clustering](./AIML_III_Module_5_Lab_3_Clustering.ipynb) - Created using Colab
