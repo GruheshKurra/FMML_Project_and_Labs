@@ -56,3 +56,4 @@ This repository contains my project and lab submissions for the FMML course. Eac
 ### Module 6
 
 - **Week 20:** [AIML Implementing Forward Propagation and Back Propagation](./AIML_Implementing_forward_propagation_and_back_propagation.ipynb) - Created using Colab
+- **Week 21:** [AIML_Tutorial_Training_a_Neural_Network.ipynb](./AIML_Tutorial_Training_a_Neural_Network.ipynb) - Created using Colab
